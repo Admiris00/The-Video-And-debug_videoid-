@@ -1,5 +1,10 @@
 # The-Video-And-debug_videoid-
 The Program Fails Video 
+
+https://youtu.be/G6adUEDOhdY
+
+https://docs.google.com/presentation/d/e/2PACX-1vRJfRq8k93dOpROJw34_VvcywgrcOfIQG-gprIPgBo18z_lcUkLUQsa9Bpiy-CsEOWDN8SG64XVZbCr/pub?start=true&loop=true&delayms=3000
+
 <iframe src="https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/preview" width="640" height="480" allow="autoplay"></iframe> https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/view?usp=vids_web https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/view?usp=sharing&t=24 { "debug_videoId": "1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc", "debug_playbackQuality": "unknown", "debug_date": "Mon Dec 01 2025 05:37:23 GMT-0400 (Atlantic Standard Time)", "origin": "https://youtube.googleapis.com", "timestamp": 1764581843864 } https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/view?usp=vids_web { "debug_videoId": "1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc", "debug_playbackQuality": "unknown", "debug_date": "Mon Dec 01 2025 05:37:23 GMT-0400 (Atlantic Standard Time)", "origin": "https://youtube.googleapis.com", "timestamp": 1764581843864 } https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/view?usp=sharing&t=24 <iframe src="https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <iframe src="https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/preview" width="640" height="480" allow="autoplay"></iframe>
@@ -120,3 +125,8 @@ https://drive.google.com/file/d/1idi_RbCyzjOSg7TsYo9xUW7AR97BUPIc/view?usp=vids_
 "lvq": "0",
 "lab": "0.000-24.311",
 "lvb":
+
+
+https://youtu.be/G6adUEDOhdY
+
+https://docs.google.com/presentation/d/e/2PACX-1vRJfRq8k93dOpROJw34_VvcywgrcOfIQG-gprIPgBo18z_lcUkLUQsa9Bpiy-CsEOWDN8SG64XVZbCr/pub?start=true&loop=true&delayms=3000
